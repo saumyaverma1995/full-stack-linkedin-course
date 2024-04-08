@@ -50,7 +50,7 @@ const articles = [
     ],
   },
   {
-    name: "mongodb",
+    name: "learn-mongo",
     title: "Learn MongoDB",
     content: [
       `Today is the day I talk about something which scares most people: resumes.
